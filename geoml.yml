@@ -1,0 +1,41 @@
+name: geoml
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.9
+  - pip
+  - requests
+  - tqdm
+  - matplotlib
+  - scipy
+  - numpy
+  - jupyter
+  - jupyterlab
+  - ipykernel
+  - ipywidgets
+  - ipyparallel
+  - scikit-image
+  - scikit-learn
+  - pillow
+  - h5py
+  - pandas
+  - seaborn
+  - pint
+  - cartopy
+  - geopandas
+  - xarray
+  - umap-learn           # ML
+  - hdbscan              # ML
+  - fastai::fastai       # ML
+  - pytorch::pytorch     # ML
+  - pytorch::torchvision # ML
+  - pytorch::cpuonly     # ML
+  - skorch               # ML
+  - pip:
+    - bruges
+    - welly
+    - wellpathpy
+    - segyio
+    - dlisio
+    - torchlayers          # ML

@@ -1,0 +1,31 @@
+0_date: 2021-07-09
+1_repo: geocomp-ml
+2_notebooks:
+- Binary_classification.ipynb
+- Demo__Gradient_descent.ipynb
+- Demo__HDF5_for_data_management.ipynb
+- Demo__Pandas_for_timeseries.ipynb
+- Demo__Read_SEG-Y_with_segyio.ipynb
+- Demo__Read_and_write_LAS.ipynb
+- Demo__Requests_from_geofignet_API.ipynb
+- Image_classification.ipynb
+- Image_classification_with_PyTorch.ipynb
+- Image_classification_with_skorch.ipynb
+- Intro_to_NumPy.ipynb
+- Intro_to_classification.ipynb
+- Intro_to_neural_networks.ipynb
+- Intro_to_regression.ipynb
+- Latent_semantic_analysis.ipynb
+- Map_interpolation.ipynb
+- Multiclass_classification.ipynb
+- Pandas_for_data_management.ipynb
+- Regression_with_PyTorch.ipynb
+- Regression_with_Scikit-Learn.ipynb
+- Semantic_segmentation_with_U-Net.ipynb
+- Time_series_forecasting.ipynb
+- Transfer_learning_Mobilenet_with_Fastai_on_Colab.ipynb
+- Transfer_learning_RESNET_inference_only.ipynb
+- Transfer_learning_RESNET_with_PyTorch_on_Colab.ipynb
+- Unsupervised_clustering_on_rock_properties.ipynb
+4_scripts:
+- utils.py
